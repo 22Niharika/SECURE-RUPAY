@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+    tr{
+        @apply h-12
+    }
+}
+
+/* body {
+    background-image: url("paper.gif");
+    background-color: #cccccc;
+   } */
